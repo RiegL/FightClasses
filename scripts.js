@@ -74,3 +74,6 @@ p1.takeAStep()
 p1.takeAStep()
 p1.takeAStep()
 console.log(`Passo de ${p1.name}: ${p1.steps}`);
+
+
+
