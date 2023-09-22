@@ -77,8 +77,8 @@
 
 
 
-const char = createKnight('Leo');
-const monster  =  createLittleMonster ('Monstro');
+const char = createSorcerer('Leo');
+const monster  =  createBigMonster ('Monstro');
 
 stage.start(
     char,
