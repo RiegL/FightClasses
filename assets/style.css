@@ -24,3 +24,35 @@
     overflow-y: scroll;
 }
 
+.texto {
+
+    font-size:200px ;
+    color:blue;
+    text-shadow: 2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    0px 2px 0 #fff,
+    0px -2px 0 #fff,
+    -2px 0px 0 #fff,
+    2px 0px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff,
+    2px 2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px -2px 0 #fff;
+}
+.div{
+    background-color: black;
+}
